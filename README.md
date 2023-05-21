@@ -139,6 +139,7 @@
 <br/>  
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Far1zzz&theme=tokyonight" alt="mystreak"/>
+  
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=Far1zzz&show_icons=true&theme=tokyonight)
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Far1zzz&theme=tokyonight&layout=compact)
 
