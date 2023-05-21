@@ -27,7 +27,7 @@
 
 
 ## My Skill Set  
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages :</h3>
 <p align="center">
   <a href="#" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
@@ -59,7 +59,7 @@
   </a>
 </p>
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">Frontend :</h3>
 <p align="center">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
@@ -108,7 +108,7 @@
   </a>
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">Backend :</h3>
 <p align="center">
   <a href="#" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
@@ -128,7 +128,7 @@
   </a>
 </p>
 
-<h3 align="center">Database</h3>
+<h3 align="center">Database :</h3>
 <p align="center">
   <a href="#" target="_blank"> 
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"
@@ -152,7 +152,7 @@
   </a> 
 </p>
 
-<h3 align="center">Cloud & Hosting:</h3>
+<h3 align="center">Cloud & Hosting :</h3>
 <p align="center">
   <a href="#" target="_blank">
     <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
@@ -177,7 +177,7 @@
   </a>
 </p>
     
-<h3 align="center">Editor</h3>
+<h3 align="center">Editor :</h3>
 <p align="center">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
@@ -205,7 +205,7 @@
   </a>
 </p>
 
-<h3 align="center">Design</h3>
+<h3 align="center">Design :</h3>
 <p align="center">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
@@ -213,7 +213,7 @@
   </a>
 </p>
 
-<h3 align="center">Version Control & CI/CD</h3>
+<h3 align="center">Version Control & CI/CD :</h3>
 <p align="center">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -230,10 +230,13 @@
 
 <br/>  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Far1zzz&theme=tokyonight" alt="mystreak"/>
-  
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=Far1zzz&show_icons=true&theme=tokyonight)
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Far1zzz&theme=tokyonight&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far1zzz&theme=tokyonight&layout=compact" alt="top langs"/>
+</p>
+
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Far1zzz&show_icons=true&theme=tokyonight"/></a> | <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Far1zzz&theme=tokyonight" alt="Nur Far1zzz github stats" /></a> |
+| ------------- | ------------- |
+    
 
 
 
