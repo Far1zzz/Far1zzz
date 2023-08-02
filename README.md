@@ -228,7 +228,7 @@
 <br/>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far1zzz&theme=tokyonight&layout=compact" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far1zzz&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=things-bin-aws&hide=hcl,html,css,less,scss,jupyter%20notebook,blade,pug" alt="top langs"/>
 </p>
 
 <!-- | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Far1zzz&show_icons=true&theme=tokyonight"/></a> | <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Far1zzz&theme=tokyonight" alt="Nur Far1zzz github stats" /></a> |
