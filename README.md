@@ -234,10 +234,6 @@
 <!-- | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Far1zzz&show_icons=true&theme=tokyonight"/></a> | <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Far1zzz&theme=tokyonight" alt="Nur Far1zzz github stats" /></a> |
 | ------------- | ------------- |-->
 
-    
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"alt="snake" />
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
