@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fariz</h1>
 <h3 align="center">A student who learns and develops skills as a front-end website developer</h3>
-<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="350"/>
+<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="300"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=far1zzz&label=Profile%20views&color=0e75b6&style=flat" alt="far1zzz" /> </p>
