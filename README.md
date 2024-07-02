@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fariz</h1>
 <h3 align="center">A student who learns and develops skills as a front-end website developer</h3>
 <p align="right">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="480" height="480" />
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" />
 </p>
 
 
