@@ -7,8 +7,8 @@
 
 
 
-- 🔭 I’m currently working on e-tamu at Diskominfo-SP banyuasin  
-- 🌱 I’m currently learning laravel, reactJs, nextJs, mongoDB, and mySQL.  
+- 🔭 Currently working as a Front-End Web Developer at Diskominfo-SP Banyuasin  
+- 🌱 I have exprience at laravel, reactJs, nextJs, mongoDB, and mySQL.  
 - 📫 How to reach me **fairizwalker@gmail.com**
 
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3> 
