@@ -112,10 +112,6 @@
       alt="nodejs"/> 
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
-      alt="express" />
-  <a/>
-  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
       alt="jwt" />
   <a/>
@@ -181,20 +177,8 @@
       alt="androidStudio"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"
-      alt="codesandbox"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"
-      alt="codepen"/>
-  </a>
-  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"
       alt="eclipse"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"
-      alt="sublime"/>
   </a>
 </p>
 
