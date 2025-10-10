@@ -119,10 +119,6 @@
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
       alt="jwt" />
   <a/>
-  <a href="#" target="_blank"> 
-    <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"
-      alt="socket"/> 
-  </a>
 </p>
 
 <h3 align="center">Database :</h3>
